@@ -29,17 +29,21 @@ ul {
 
 /* Navigation */
 .navMain {
+  background-color: #020C1B;
+  position: sticky;
+  top: 0px;
   font-size: 17px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 60px;
+  height: 70px;
   padding: 20px 0;
+
 }
 
 .navLogo {
-
-  padding-top: 10px;
+  position: fixed;
+  padding: 10px 0px;
   width: 50px;
 }
 
@@ -72,7 +76,8 @@ ul {
 }
 
 hr {
-  margin: 10px 0;
+  position: sticky;
+  top: 70px;
 }
 
 /* Responsive Button */
@@ -565,17 +570,21 @@ ul {
 
 /* Navigation */
 .navMain {
+  background-color: #020C1B;
+  position: sticky;
+  top: 0px;
   font-size: 17px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 60px;
+  height: 70px;
   padding: 20px 0;
+
 }
 
 .navLogo {
-
-  padding-top: 10px;
+  position: fixed;
+  padding: 10px 0px;
   width: 50px;
 }
 
@@ -608,7 +617,8 @@ ul {
 }
 
 hr {
-  margin: 10px 0;
+  position: sticky;
+  top: 70px;
 }
 
 /* Responsive Button */
